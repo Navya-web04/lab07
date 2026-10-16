@@ -4,6 +4,9 @@
         <meta charset="utf-8"/>
         <title>Using PHP Variables, arrays and operators </title>
         <!-- add other meta -->
+         <meta name="description" content="A PHP example demonstrating variables, arrays and operators.">
+         <meta name="keywords" content="PHP, variables, arrays, operators">
+         <meta name="author" content="Navya">
 </head>
 <body>
     <h1>PHP Variables, arrays and operators</h1>
